@@ -19,6 +19,7 @@ Additional Notes
 Do note that this is in development, may cause bugs.
 Read the original repo for options.
 
+Usually this is for my personal use.
 License & Copyright
 -------------------
 
