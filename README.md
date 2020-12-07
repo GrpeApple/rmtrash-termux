@@ -1,18 +1,24 @@
 rmtrash 1.14
 ============
-Move to trash in Termux, you need to create a Trash folder
+
+Move to trash in Termux
 
 Installation
 ------------
+
 Move the scriptfiles to ```/data/data/com.termux/files/usr/bin/```
 
 Requirements
 ------------
+
 Obviously Termux.
+
 Additional Notes
 ----------------
+
 Do note that this is in development, may cause bugs.
 Read the original repo for options.
+
 License & Copyright
 -------------------
 
